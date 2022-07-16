@@ -1,7 +1,45 @@
+header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
 .nav-menu {
   text-align: right;
 }
 
 .nav-spacing {
   margin: 0 0 0 10px;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.quote-em {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.report {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.image-link {
+  text-decoration: none;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.image-wrap {
+  float: left;
+  margin: 0 40px 0 0;
 }
